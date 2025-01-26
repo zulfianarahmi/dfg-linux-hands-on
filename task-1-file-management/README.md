@@ -6,28 +6,34 @@ Tugas ini bertujuan untuk memanipulasi file dan direktori menggunakan perintah d
 
 ## Langkah-langkah
 
-### 1.1 Membuat Struktur Direktori
+### Task 1.1: Create a directory structure as follows:
 
-project/ ├── reports/ │ ├── 2024/ │ └── 2025/ ├── scripts/ └── data/
+project/
+|-- reports/
+| |-- 2024/
+| |-- 2025/
+|-- scripts/
+|-- data/
+
 Perintah yang digunakan:
 
-### 1.2 Membuat Tiga File Kosong
+### Task 1.2: Create three empty files in the reports/2024 directory: `q1.txt, q2.txt, and q3.txt.`
 
 Buat tiga file kosong dengan nama `q1.txt`, `q2.txt`, dan `q3.txt` di dalam direktori `reports/2024/`.
 
-### 1.3 Memindahkan `q1.txt` ke Direktori `2025`
+### Task 1.3: Move `q1.txt` to the 2025 directory.
 
 Pindahkan file `q1.txt` ke dalam direktori `reports/2025/`.
 
-### 1.4 Menyalin `q2.txt` ke Direktori `scripts` dan Menamai Ulang
+### Task 1.4: Copy `q2.txt` to the scripts directory and rename it as `analysis.txt.`
 
 Salin file `q2.txt` ke direktori `scripts/` dan beri nama baru `analysis.txt`.
 
-### 1.5 Mendaftarkan Semua File di `reports/2025`
+### Task 1.5: List all files in the `reports/2025` directory using ls and log the output to `file_list.log.`
 
 Gunakan perintah untuk menampilkan semua file yang ada di dalam direktori `reports/2025/` dan simpan hasilnya ke dalam file `file_list.log`.
 
-### 1.6 Menampilkan Isi `q3.txt` dan Menambahkan "Task Completed"
+### Task 1.6: Display the contents of `q3.txt` using cat and append "Task Completed" to the file.
 
 Tampilkan isi dari file `q3.txt` dan tambahkan tulisan "Task Completed" pada akhir file tersebut.
 
