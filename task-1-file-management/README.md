@@ -8,15 +8,13 @@ Tugas ini bertujuan untuk memanipulasi file dan direktori menggunakan perintah d
 
 ### Task 1.1: Create a directory structure as follows:
 
-project/
-|-- reports/
-| |-- 2024/
-| |-- 2025/
-|-- scripts/
-|-- data/
+![Struktur](task-1-file-management/screenshoot/image.png)
 
 Perintah yang digunakan:
+
+```bash
 mkdir -p project/reports/2024 project/reports/2025 project/scripts project/data
+```
 
 ### Task 1.2: Create three empty files in the reports/2024 directory: `q1.txt, q2.txt, and q3.txt.`
 
