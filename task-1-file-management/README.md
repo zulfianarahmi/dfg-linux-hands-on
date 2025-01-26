@@ -8,7 +8,7 @@ Tugas ini bertujuan untuk memanipulasi file dan direktori menggunakan perintah d
 
 ### Task 1.1: Create a directory structure as follows:
 
-![Struktur](/screenshoot/image.png)
+![Struktur](screenshoot/image.png)
 
 Perintah yang digunakan:
 
