@@ -55,3 +55,20 @@ or
 ```bash
 killall sleep
 ```
+
+---
+
+## Challenges:
+
+- Understanding basic process concepts, like foreground and background.
+- Identifying a specific process among many others in the system.
+- Interpreting the output of commands like ps, top, or htop.
+- Managing system resources with tools like stress, and understanding its impact on CPU, memory, and disk.
+
+## Learning:
+
+- Using & to run processes in the background while keeping the terminal active.
+- Using ps aux | grep to filter out specific processes.
+- Understanding data from monitoring tools (like top, htop) to keep an eye on system resources.
+- Practicing resource management with commands like stress and monitoring its effects with free, df, or du.
+- Controlling processes using PID, such as killing processes with kill.
