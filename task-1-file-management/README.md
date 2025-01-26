@@ -37,23 +37,23 @@ Gunakan perintah untuk menampilkan semua file yang ada di dalam direktori `repor
 
 Tampilkan isi dari file `q3.txt` dan tambahkan tulisan "Task Completed" pada akhir file tersebut.
 
-### 1.7 Menampilkan Struktur Direktori dengan `tree`
+### Task 1.7: Use tree to display the directory structure of the project directory and save the output to `structure.log.`
 
 Tampilkan struktur direktori dari direktori `project/` dan simpan hasilnya ke dalam file `structure.log`.
 
-### 1.8 Menghapus `scripts/analysis.txt` dan Memastikan Penghapusan
+### Task 1.8: Remove the `scripts/analysis.txt` file and confirm its deletion by listing the contents of the scripts directory.
 
 Hapus file `scripts/analysis.txt` dan pastikan bahwa file tersebut sudah terhapus dengan melihat isi dari direktori `scripts/`.
 
-### 1.9 Menyalin Direktori `project` ke `project-old`
+### Task 1.9: Copy the entire project directory to a new directory named `project-old.`
 
 Salin seluruh direktori `project/` ke dalam direktori baru bernama `project-old/`.
 
-### 1.10 Menghapus Direktori `project`
+### Task 1.10: Delete the original project directory.
 
 Hapus direktori `project/` yang asli.
 
-### 1.11 Membuat File Besar (5GB) dengan `dd`
+### Task 1.11: Create a large file (5GB) in the data directory using dd or truncate. Name it `large_file.dat`.
 
 Buat file besar berukuran 5GB di dalam direktori `data/` dengan menggunakan perintah `dd` atau `truncate` dan beri nama file tersebut `large_file.dat`.
 
