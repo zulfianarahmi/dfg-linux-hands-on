@@ -78,14 +78,14 @@ rm -ri ~/Documents/project
 truncate -s 5G ~/Documents/large_file.dat
 ```
 
-## Hasil
+## This challenge (Task 1) involves:
 
-Setelah menyelesaikan semua langkah di atas, pastikan untuk mengecek dan memverifikasi hasilnya sesuai instruksi yang diberikan.
+- Wrong path: For example, using ~/project when the actual directory is ~/Documents/project.
+- Permission issue: Not having write access to the target directory.
+- Command typo: Mistyping the file name or command (e.g., typing scrpt instead of scripts).
 
-## Tantangan
+## The lesson:
 
-Deskripsikan tantangan atau masalah yang dihadapi selama pengerjaan tugas ini.
-
-## Kesimpulan
-
-Jelaskan pelajaran yang didapat dari pengerjaan tugas ini dan langkah-langkah berikutnya yang akan dilakukan.
+- Familiarization with command line tools in Linux.
+- Understanding the file/directory manipulation workflow.
+- Recognizing the importance of planning and verification before deleting data

@@ -50,7 +50,7 @@ while true; do ps -aux | awk '$3 > 10 {print $0}' >> high_cpu.log; sleep 5; done
 kill <PID_of_sleep>
 ```
 
-# or
+or
 
 ```bash
 killall sleep
