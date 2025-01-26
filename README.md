@@ -19,7 +19,7 @@ Before starting these tasks, make sure you have installed and configured the fol
 - Creating and managing directory structures, as well as handling files using basic Linux commands such as `mkdir`, `touch`, `cp`, and `mv`.
 - Using commands like `ls`, `tree`, `cat`, and others to verify results.
 
-  For detailed explanations, check out my [Medium post on Task 1](https://medium.com/your-article-link).
+  For detailed explanations, check out my [Medium post on Task 1](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-1-219d2cdb20ba).
 
 ---
 
@@ -36,7 +36,7 @@ Before starting these tasks, make sure you have installed and configured the fol
 
 - Managing processes and monitoring resources using commands like `ps`, `top`, `htop`, `df`, `du`, `free`, as well as simulating load with `stress`.
 
-  For detailed explanations, check out my [Medium post on Task 3](https://medium.com/your-article-link).
+  For detailed explanations, check out my [Medium post on Task 3](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-3-6f4bd5b2205c).
 
 ---
 
