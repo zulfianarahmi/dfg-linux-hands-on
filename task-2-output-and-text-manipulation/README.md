@@ -9,8 +9,6 @@
 gem install flog
 ```
 
-![Install](screenshoot/flog.png)
-
 ## Task 2.1: Generate Fake Logs
 
 ```bash
@@ -79,11 +77,10 @@ grep ' 404 ' access.log | awk '{print $1}' | sort | uniq -c | sort -nr | head -n
 
 ````bash
 sed 's/^[^ ]*ANONYMIZED_IP/' access.log > access_anonymized.log```
-
----
+````
 
 ## Task 2.10: Count Log Entries with Status Code 500
 
 ```bash
 grep ' 500 ' access.log | wc -l
-````
+```

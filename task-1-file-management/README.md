@@ -22,8 +22,6 @@ touch reports/2024/q2.txt
 touch reports/2024/q3.txt
 ```
 
-![Struktur](screenshoot/1.png)
-
 ### Task 1.3: Move `q1.txt` to the 2025 directory.
 
 ```bash
