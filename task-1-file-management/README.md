@@ -8,19 +8,21 @@ Tugas ini bertujuan untuk memanipulasi file dan direktori menggunakan perintah d
 
 ### Task 1.1: Create a directory structure as follows:
 
+````plaintext
 project/
 |-- reports/
-| |-- 2024/
-| |-- 2025/
+|   |-- 2024/
+|   |-- 2025/
 |-- scripts/
 |-- data/
 
 Perintah yang digunakan:
-mkdir -p project/reports/2024 project/reports/2025 project/script project/data
+mkdir -p project/reports/2024 project/reports/2025 project/scripts project/data
 
 ### Task 1.2: Create three empty files in the reports/2024 directory: `q1.txt, q2.txt, and q3.txt.`
 
 Buat tiga file kosong dengan nama `q1.txt`, `q2.txt`, dan `q3.txt` di dalam direktori `reports/2024/`.
+```bash
 touch q1.txt
 touch q2.txt
 touch q3.txt
@@ -28,6 +30,7 @@ touch q3.txt
 ### Task 1.3: Move `q1.txt` to the 2025 directory.
 
 Pindahkan file `q1.txt` ke dalam direktori `reports/2025/`.
+```bash
 mv reports/2024/q1.txt reports/2025/
 
 ### Task 1.4: Copy `q2.txt` to the scripts directory and rename it as `analysis.txt.`
@@ -84,6 +87,8 @@ Deskripsikan tantangan atau masalah yang dihadapi selama pengerjaan tugas ini.
 ## Kesimpulan
 
 Jelaskan pelajaran yang didapat dari pengerjaan tugas ini dan langkah-langkah berikutnya yang akan dilakukan.
+
+````
 
 ```
 
