@@ -77,9 +77,8 @@ grep ' 404 ' access.log | awk '{print $1}' | sort | uniq -c | sort -nr | head -n
 
 ## Task 2.9: Anonymize IP Addresses
 
-```bash
-sed -E 's/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/ANONYMIZED_IP/' access.log > access_anonymized.log
-```
+````bash
+sed 's/^[^ ]*ANONYMIZED_IP/' access.log > access_anonymized.log```
 
 ---
 
@@ -87,4 +86,4 @@ sed -E 's/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/ANONYMIZED_IP/' access.log > access_an
 
 ```bash
 grep ' 500 ' access.log | wc -l
-```
+````
