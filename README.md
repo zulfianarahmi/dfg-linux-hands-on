@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains hands-on tasks related to the Linux system, including file management, text processing, load testing, process management, and networking tools. Each task aims to deepen understanding of the use of commands and tools in Linux. For detailed explanations, you can refer to my [Medium blog](https://medium.com/@zulfianarahmi4).
+This repository contains hands-on tasks related to the Linux system, including file management, text processing, load testing, process management, and networking tools. Each task aims to deepen understanding of the use of commands and tools in Linux. For detailed explanations, you can refer to my [Medium blog](https://medium.com/@zulfianarahmi4)
 
 ## Prerequisites
 
