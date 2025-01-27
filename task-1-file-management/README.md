@@ -1,14 +1,10 @@
 # Task 1: File Management
 
-## Tujuan
-
-Tugas ini bertujuan untuk memanipulasi file dan direktori menggunakan perintah dasar Linux.
-
-## Langkah-langkah
+For detailed explanations, check out my [Medium post on Task 1](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-1-219d2cdb20ba)
 
 ### Task 1.1: Create a directory structure as follows:
 
-![Struktur](screenshoot/image.png)
+![structure](screenshoot/image.png)
 
 ```bash
 mkdir -p project/reports/2024 project/reports/2025 project/scripts project/data

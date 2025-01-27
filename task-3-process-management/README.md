@@ -1,5 +1,7 @@
 # 3. Process Management
 
+For detailed explanations, check out my [Medium post on Task 3](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-3-6f4bd5b2205c)
+
 ## Task 3.1: Start a long-running process using the command `sleep 500 &` and note its PID.
 
 ```bash

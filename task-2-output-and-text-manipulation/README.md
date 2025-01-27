@@ -1,13 +1,12 @@
 # Task 2: Output and Text Manipulation
 
+For detailed explanations, check out my [Medium post on Task 2](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-2-0782185df802)
+
 ## Prerequisites
 
 - Install `flog` to generate fake logs.
 
-```bash
-# Install flog (if not installed yet)
-gem install flog
-```
+https://github.com/mingrammer/flog
 
 ## Task 2.1: Generate Fake Logs
 
