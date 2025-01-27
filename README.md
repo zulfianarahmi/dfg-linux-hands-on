@@ -28,7 +28,7 @@ Before starting these tasks, make sure you have installed and configured the fol
 - Log and text manipulation, including the use of `awk`, `cut`, `grep`, `sed`, and others to extract and modify information in log files.
 - Using tools like `flog` to generate fake logs and perform various text-based analyses.
 
-  For detailed explanations, check out my [Medium post on Task 2](https://medium.com/your-article-link)
+  For detailed explanations, check out my [Medium post on Task 2](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-2-0782185df802)
 
 ---
 
@@ -44,7 +44,7 @@ Before starting these tasks, make sure you have installed and configured the fol
 
 - Using networking tools like `ping`, `telnet`, `curl`, `netstat`, `iperf`, and `nc` to test network connectivity, download content, and check ports and network connections.
 
-  For detailed explanations, check out my [Medium post on Task 4](https://medium.com/your-article-link).
+  For detailed explanations, check out my [Medium post on Task 4](https://medium.com/@zulfianarahmi4/dfg-linux-hands-on-homework-task-4-8ea541a1906c).
 
 ---
 
