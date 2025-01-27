@@ -12,7 +12,7 @@ gem install flog
 ## Task 2.1: Generate Fake Logs
 
 ```bash
-flog --entries 2000 > access.log
+flog -s 10s -n 2000 > access.log
 ```
 
 ---
@@ -76,7 +76,7 @@ grep ' 404 ' access.log | awk '{print $1}' | sort | uniq -c | sort -nr | head -n
 ## Task 2.9: Anonymize IP Addresses
 
 ````bash
-sed 's/^[^ ]*ANONYMIZED_IP/' access.log > access_anonymized.log```
+sed -E 's/^[^ ]+/ANONYMIZED_IP/' access.log > access_anonymized.log```
 ````
 
 ## Task 2.10: Count Log Entries with Status Code 500
@@ -84,3 +84,11 @@ sed 's/^[^ ]*ANONYMIZED_IP/' access.log > access_anonymized.log```
 ```bash
 grep ' 500 ' access.log | wc -l
 ```
+
+## Challenge:
+
+A conflict between two installed versions of flog (one from APT and the other from Go) caused system confusion.
+
+## Lesson:
+
+Properly managing the PATH and ensuring only one version of a program is installed helps avoid conflicts
